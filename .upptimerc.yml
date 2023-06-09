@@ -71,9 +71,54 @@ sites:
     url: https://api.kittycad.io/.well-known/ai-plugin.json
   - name: Klarna
     url: https://www.klarna.com/.well-known/ai-plugin.json
+  - name: Kyuda
+    url: https://www.kyuda.io/.well-known/ai-plugin.json
+  - name: Luma
+    url: https://lu.ma/.well-known/ai-plugin.json
+  - name: Medium
+    url: https://medium.com/.well-known/ai-plugin.json
+  - name: Messagebird
+    url: https://www.messagebird.com/.well-known/ai-plugin.json
+  - name: Milo
+    url: https://www.joinmilo.com/.well-known/ai-plugin.json
+  - name: Mixerbox
+    url: https://www.mixerbox.com/.well-known/ai-plugin.json
+  - name: Monitup
+    url: https://www.monitup.com/.well-known/ai-plugin.json
+  - name: Mrkter
+    url: https://mrkter.io/.well-known/ai-plugin.json
+  - name: Oneword
+    url: https://oneword.domains/.well-known/ai-plugin.json
+  - name: Pandia
+    url: https://pandia.pro/.well-known/ai-plugin.json
+  - name: Plugin.so
+    url: https://plugin.so/.well-known/ai-plugin.json
+  - name: Plugsugar
+    url: https://websearch.plugsugar.com/.well-known/ai-plugin.json
+  - name: Polarr
+    url: https://polarr.co/.well-known/ai-plugin.json
+  - name: Polygon
+    url: https://polygon.io/.well-known/ai-plugin.json
+  - name: Portfoliopilot
+    url: https://portfoliopilot.com/.well-known/ai-plugin.json
+  - name: Pricerunner
+    url: https://www.pricerunner.com/.well-known/ai-plugin.json
+  - name: Quickchart
+    url: https://quickchart.io/.well-known/ai-plugin.json
+  - name: Ramp
+    url: https://ramp.com/.well-known/ai-plugin.json
+  - name: Redfin
+    url: https://www.redfin.com/.well-known/ai-plugin.json
+  - name: Remoteambition
+    url: https://remoteambition.com/.well-known/ai-plugin.json
+  - name: Rentable
+    url: https://www.rentable.co/.well-known/ai-plugin.json
 
 status-website:
-  baseUrl: /uptest
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: https://targed.github.io/uptest/
+  # baseUrl: /uptest
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Plugins
   introTitle: "Plugins Uptime"
