@@ -3,10 +3,22 @@ owner: targed # Your GitHub organization or username, where this repository live
 repo: uptest # The name of this repository
 
 sites:
-  - name: WolframAlpha
-    url: https://www.wolframalpha.com/.well-known/ai-plugin.json
-  - name: Wikipedia
-    url: https://oasst-plugins.dumbserg.al:2083/plugins/wikipedia-plugin.json
+  - name: APIs.guru
+    url: https://apis.guru/.well-known/ai-plugin.json
+  - name: Appypie
+    url: https://www.appypie.com/.well-known/ai-plugin.json
+  - name: Asana
+    url: https://app.asana.com/.well-known/ai-plugin.json
+  - name: ASCIIArt
+    url: https://chatgpt-plugin-ts.transitive-bullshit.workers.dev/.well-known/ai-plugin.json
+  - name: Babyagichatgpt
+    url: https://babyagichatgpt.skirano.repl.co/.well-known/ai-plugin.json
+  - name: Biztoc
+    url: https://biztoc.com/.well-known/ai-plugin.json
+  - name: Brainlox
+    url: https://brainlox.ai/.well-known/ai-plugin.json
+  - name: Bundlejs
+    url: https://deno.bundlejs.com/.well-known/ai-plugin.json
   - name: Calculator
     url: https://chat-calculator-plugin.supportmirage.repl.co/.well-known/ai-plugin.json
 
