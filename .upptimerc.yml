@@ -21,6 +21,56 @@ sites:
     url: https://deno.bundlejs.com/.well-known/ai-plugin.json
   - name: Calculator
     url: https://chat-calculator-plugin.supportmirage.repl.co/.well-known/ai-plugin.json
+  - name: Coupert
+    url: https://www.coupert.com/.well-known/ai-plugin.json
+  - name: Creaticode
+    url: https://openai.creaticode.com/.well-known/ai-plugin.json
+  - name: Crossmint
+	  url: https://www.crossmint.com/.well-known/ai-plugin.json
+  - name: DALL-E
+    url: https://api.openai.com/.well-known/ai-plugin.json
+  - name: Datamuse
+    url: https://datamuse.com/.well-known/ai-plugin.json
+  - name: Datasette
+    url: https://datasette.io/.well-known/ai-plugin.json
+  - name: Decisionjournal
+    url: https://decisionjournalapp.com/.well-known/ai-plugin.json
+  - name: Dev
+    url: https://dev.to/.well-known/ai-plugin.json
+  - name: Dexa Lex Fridman
+    url: https://chatgpt-plugin-dexa-lex-fridman.transitive-bullshit.workers.dev/.well-known/ai-plugin.json
+  - name: Docsbot
+    url: https://docsbot.ai/.well-known/ai-plugin.json
+  - name: Doordash
+    url: https://consumer-mobile-bff.doordash.com/v1/aichat/static/ai-plugin.json
+  - name: Freetv
+    url: https://www.freetv-app.com/.well-known/ai-plugin.json
+  - name: Getit
+    url: https://api.getit.ai/.well_known/ai-plugin.json
+  - name: GitHub **UNOFFICIAL**
+    url: https://gh-plugin.teammait.com/.well-known/ai-plugin.json
+  - name: Gochitchat
+    url: https://gochitchat.ai/.well-known/ai-plugin.json
+  - name: Gps-telecom
+    url: https://www.gps-telecom.com/.well-known/ai-plugin.json
+  - name: Gpt.collov
+    url: https://gpt.collov.com/.well-known/ai-plugin.json
+  - name: GPTWeather
+    url: https://gptweather.skirano.repl.co/.well-known/ai-plugin.json
+  - name: Greenyroad
+    url: https://www.greenyroad.com/.well-known/ai-plugin.json
+  - name: Influence Marketing
+    url: https://influencermarketing.ai/.well-known/ai-plugin.json
+  - name: Infobot
+    url: https://infobot.ai/.well-known/ai-plugin.json
+  - name: Iowa_State_University_Environmental_Mesonet
+    url: https://mesonet.agron.iastate.edu/.well-known/ai-plugin.json
+  - name: Kalendar
+    url: https://kalendar.ai/.well-known/ai-plugin.json
+  - name: Kittycad
+    url: https://api.kittycad.io/.well-known/ai-plugin.json
+  - name: Klarna
+    url: https://www.klarna.com/.well-known/ai-plugin.json
 
 status-website:
   baseUrl: /uptest
