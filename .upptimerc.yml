@@ -26,7 +26,7 @@ sites:
   - name: Creaticode
     url: https://openai.creaticode.com/.well-known/ai-plugin.json
   - name: Crossmint
-	  url: https://www.crossmint.com/.well-known/ai-plugin.json
+    url: https://www.crossmint.com/.well-known/ai-plugin.json
   - name: DALL-E
     url: https://api.openai.com/.well-known/ai-plugin.json
   - name: Datamuse
