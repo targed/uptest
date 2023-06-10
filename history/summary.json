@@ -358,7 +358,7 @@
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2023-06-10": 1114,
+      "2023-06-10": 1115,
       "2023-06-09": 198
     }
   },
@@ -541,7 +541,7 @@
     "timeMonth": 129,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2023-06-10": 1114,
+      "2023-06-10": 1115,
       "2023-06-09": 198
     }
   },
@@ -659,11 +659,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/medium.com.ico",
     "slug": "medium",
     "status": "up",
-    "uptime": "16.00%",
-    "uptimeDay": "16.00%",
-    "uptimeWeek": "16.00%",
-    "uptimeMonth": "16.00%",
-    "uptimeYear": "16.00%",
+    "uptime": "15.99%",
+    "uptimeDay": "15.99%",
+    "uptimeWeek": "15.99%",
+    "uptimeMonth": "15.99%",
+    "uptimeYear": "15.99%",
     "time": 95,
     "timeDay": 95,
     "timeWeek": 95,
@@ -942,7 +942,7 @@
     "timeMonth": 67,
     "timeYear": 67,
     "dailyMinutesDown": {
-      "2023-06-10": 1114,
+      "2023-06-10": 1115,
       "2023-06-09": 121
     }
   },
@@ -1078,11 +1078,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.app.ico",
     "slug": "shop",
     "status": "down",
-    "uptime": "2.24%",
-    "uptimeDay": "2.24%",
-    "uptimeWeek": "2.24%",
-    "uptimeMonth": "2.24%",
-    "uptimeYear": "2.24%",
+    "uptime": "2.13%",
+    "uptimeDay": "2.13%",
+    "uptimeWeek": "2.13%",
+    "uptimeMonth": "2.13%",
+    "uptimeYear": "2.13%",
     "time": 106,
     "timeDay": 106,
     "timeWeek": 106,
@@ -1116,11 +1116,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tasty.co.ico",
     "slug": "tasty",
     "status": "down",
-    "uptime": "1.11%",
-    "uptimeDay": "1.11%",
-    "uptimeWeek": "1.11%",
-    "uptimeMonth": "1.11%",
-    "uptimeYear": "1.11%",
+    "uptime": "1.51%",
+    "uptimeDay": "1.51%",
+    "uptimeWeek": "1.51%",
+    "uptimeMonth": "1.51%",
+    "uptimeYear": "1.51%",
     "time": 100,
     "timeDay": 100,
     "timeWeek": 100,
@@ -1190,18 +1190,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.theansible.com.ico",
     "slug": "theansible",
     "status": "down",
-    "uptime": "1.94%",
-    "uptimeDay": "1.94%",
-    "uptimeWeek": "1.94%",
-    "uptimeMonth": "1.94%",
-    "uptimeYear": "1.94%",
+    "uptime": "1.98%",
+    "uptimeDay": "1.98%",
+    "uptimeWeek": "1.98%",
+    "uptimeMonth": "1.98%",
+    "uptimeYear": "1.98%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-10": 0
+      "2023-06-10": 1
     }
   },
   {
@@ -1264,18 +1264,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.triplewhale.com.ico",
     "slug": "triplewhale",
     "status": "down",
-    "uptime": "3.04%",
-    "uptimeDay": "3.04%",
-    "uptimeWeek": "3.04%",
-    "uptimeMonth": "3.04%",
-    "uptimeYear": "3.04%",
+    "uptime": "2.39%",
+    "uptimeDay": "2.39%",
+    "uptimeWeek": "2.39%",
+    "uptimeMonth": "2.39%",
+    "uptimeYear": "2.39%",
     "time": 92,
     "timeDay": 92,
     "timeWeek": 92,
     "timeMonth": 92,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2023-06-10": 0
+      "2023-06-10": 1
     }
   },
   {
