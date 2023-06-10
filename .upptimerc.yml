@@ -113,6 +113,40 @@ sites:
     url: https://remoteambition.com/.well-known/ai-plugin.json
   - name: Rentable
     url: https://www.rentable.co/.well-known/ai-plugin.json
+  - name: Savvytrader
+    url: https://savvytrader.com/.well-known/ai-plugin.json
+  - name: Scenex
+    url: https://scenex.jina.ai/.well-known/ai-plugin.json
+  - name: SchoolDigger
+    url: https://www.schooldigger.com/.well-known/ai-plugin.json
+  - name: Semgrep
+    url: https://semgrep.dev/.well-known/ai-plugin.json
+  - name: Shop
+    url: https://shop.app/.well-known/ai-plugin.json
+  - name: Slack
+    url: https://slack.com/.well-known/ai-plugin.json
+  - name: Tasty
+    url: https://tasty.co/.well-known/ai-plugin.json
+  - name: Techspecs
+    url: https://techspecs.io/.well-known/ai-plugin.json
+  - name: Telnyx
+    url: https://telnyx.com/.well-known/ai-plugin.json
+  - name: Textbelt
+    url: https://textbelt.com/.well-known/ai-plugin.json
+  - name: Theansible
+    url: https://www.theansible.com/.well-known/ai-plugin.json
+  - name: Tilnote
+    url: https://tilnote.io/.well-known/ai-plugin.json
+  - name: Transvribe
+    url: https://www.transvribe.com/.well-known/ai-plugin.json
+  - name: Trip
+    url: https://www.trip.com/.well-known/ai-plugin.json
+  - name: Triplewhale
+    url: https://www.triplewhale.com/.well-known/ai-plugin.json
+  - name: Twtdata
+    url: https://www.twtdata.com/.well-known/ai-plugin.json
+  - name: Urlbox
+    url: https://urlbox.io/.well-known/ai-plugin.json
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
