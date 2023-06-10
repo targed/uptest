@@ -179,7 +179,7 @@ status-website:
   introMessage: This status page monitors [Plugins](https://github.com/targed/GPT-Plugins) for uptime.
   navbar:
     - title: Status
-      href: /
+      href: /uptest
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Plugin Information
