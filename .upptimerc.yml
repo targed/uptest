@@ -182,4 +182,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Plugin Information
+      href: https://github.com/$OWNER/$REPO/PLUGIN-INFORMATION.md
   theme: dark
