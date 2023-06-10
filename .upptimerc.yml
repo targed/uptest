@@ -173,12 +173,13 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: https://targed.github.io/uptest/
   baseUrl: /uptest
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Plugins
   introTitle: "Plugins Uptime"
   introMessage: This status page monitors [Plugins](https://github.com/targed/GPT-Plugins) for uptime.
   navbar:
     - title: Status
-      href: /uptest
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: dark
