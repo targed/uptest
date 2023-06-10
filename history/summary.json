@@ -358,7 +358,7 @@
     "timeMonth": 127,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2023-06-10": 1131,
+      "2023-06-10": 1147,
       "2023-06-09": 198
     }
   },
@@ -541,7 +541,7 @@
     "timeMonth": 135,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2023-06-10": 1131,
+      "2023-06-10": 1147,
       "2023-06-09": 198
     }
   },
@@ -658,19 +658,19 @@
     "url": "https://medium.com/.well-known/ai-plugin.json",
     "icon": "https://icons.duckduckgo.com/ip3/medium.com.ico",
     "slug": "medium",
-    "status": "up",
-    "uptime": "15.79%",
-    "uptimeDay": "15.79%",
-    "uptimeWeek": "15.79%",
-    "uptimeMonth": "15.79%",
-    "uptimeYear": "15.79%",
-    "time": 100,
-    "timeDay": 100,
-    "timeWeek": 100,
-    "timeMonth": 100,
-    "timeYear": 100,
+    "status": "down",
+    "uptime": "15.58%",
+    "uptimeDay": "15.58%",
+    "uptimeWeek": "15.58%",
+    "uptimeMonth": "15.58%",
+    "uptimeYear": "15.58%",
+    "time": 98,
+    "timeDay": 98,
+    "timeWeek": 98,
+    "timeMonth": 98,
+    "timeYear": 98,
     "dailyMinutesDown": {
-      "2023-06-10": 1054
+      "2023-06-10": 1071
     }
   },
   {
@@ -942,7 +942,7 @@
     "timeMonth": 71,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2023-06-10": 1131,
+      "2023-06-10": 1147,
       "2023-06-09": 121
     }
   },
@@ -1078,18 +1078,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.app.ico",
     "slug": "shop",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 154,
     "timeDay": 154,
     "timeWeek": 154,
     "timeMonth": 154,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2023-06-10": 17
+      "2023-06-10": 34
     }
   },
   {
@@ -1116,18 +1116,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tasty.co.ico",
     "slug": "tasty",
     "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 134,
     "timeDay": 134,
     "timeWeek": 134,
     "timeMonth": 134,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2023-06-10": 17
+      "2023-06-10": 34
     }
   },
   {
@@ -1190,18 +1190,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.theansible.com.ico",
     "slug": "theansible",
     "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-10": 17
+      "2023-06-10": 33
     }
   },
   {
@@ -1264,18 +1264,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.triplewhale.com.ico",
     "slug": "triplewhale",
     "status": "down",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 120,
     "timeDay": 120,
     "timeWeek": 120,
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2023-06-10": 17
+      "2023-06-10": 33
     }
   },
   {
@@ -1367,7 +1367,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-10": 1131,
+      "2023-06-10": 1147,
       "2023-06-09": 244
     }
   },
@@ -1413,18 +1413,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wordpress.com.ico",
     "slug": "wordpress",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 132,
     "timeDay": 132,
     "timeWeek": 132,
     "timeMonth": 132,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2023-06-10": 15
+      "2023-06-10": 31
     }
   },
   {
@@ -1469,18 +1469,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yelp.com.ico",
     "slug": "yelp",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 111,
     "timeDay": 111,
     "timeWeek": 111,
     "timeMonth": 111,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2023-06-10": 15
+      "2023-06-10": 31
     }
   },
   {
