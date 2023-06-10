@@ -358,7 +358,7 @@
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2023-06-10": 419,
+      "2023-06-10": 466,
       "2023-06-09": 198
     }
   },
@@ -541,7 +541,7 @@
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2023-06-10": 419,
+      "2023-06-10": 466,
       "2023-06-09": 198
     }
   },
@@ -658,19 +658,19 @@
     "url": "https://medium.com/.well-known/ai-plugin.json",
     "icon": "https://icons.duckduckgo.com/ip3/medium.com.ico",
     "slug": "medium",
-    "status": "up",
-    "uptime": "36.59%",
-    "uptimeDay": "36.59%",
-    "uptimeWeek": "36.59%",
-    "uptimeMonth": "36.59%",
-    "uptimeYear": "36.59%",
-    "time": 83,
-    "timeDay": 83,
-    "timeWeek": 83,
-    "timeMonth": 83,
-    "timeYear": 83,
+    "status": "down",
+    "uptime": "33.64%",
+    "uptimeDay": "33.64%",
+    "uptimeWeek": "33.64%",
+    "uptimeMonth": "33.64%",
+    "uptimeYear": "33.64%",
+    "time": 79,
+    "timeDay": 79,
+    "timeWeek": 79,
+    "timeMonth": 79,
+    "timeYear": 79,
     "dailyMinutesDown": {
-      "2023-06-10": 342
+      "2023-06-10": 390
     }
   },
   {
@@ -942,7 +942,7 @@
     "timeMonth": 66,
     "timeYear": 66,
     "dailyMinutesDown": {
-      "2023-06-10": 419,
+      "2023-06-10": 466,
       "2023-06-09": 121
     }
   },
